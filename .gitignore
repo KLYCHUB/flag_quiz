@@ -1,17 +1,5 @@
-# Gizlenecek tüm dosyalar
+# Tüm dosyaları gizle
 *
 
 # Ancak .gitignore dosyasını hariç tut
 !.gitignore
-
-# Flutter/Dart/Pub ile ilgili dosyalar
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-.pub-cache/
-.pub/
-/build/
-
-# Android klasörlerini gizle
-/android/
